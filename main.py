@@ -50,14 +50,14 @@ if __name__ == '__main__':
 
     napr_by_count(
         [
-            # r'C:\Users\dashk\универ\прак\razb1.k',
-            # r'C:\Users\dashk\универ\прак\razb2.k',
-            # r'C:\Users\dashk\универ\прак\razb3.k',
-            # r'C:\Users\dashk\универ\прак\razb4.k',
-            # r'C:\Users\dashk\универ\прак\razb5.k',
-            # r'C:\Users\dashk\универ\прак\razb7.k',
-            # r'C:\Users\dashk\универ\прак\razb8.k',
-            # r'C:\Users\dashk\универ\прак\razb9.k',
+            r'C:\Users\dashk\универ\прак\razb1.k',
+            r'C:\Users\dashk\универ\прак\razb2.k',
+            r'C:\Users\dashk\универ\прак\razb3.k',
+            r'C:\Users\dashk\универ\прак\razb4.k',
+            r'C:\Users\dashk\универ\прак\razb5.k',
+            r'C:\Users\dashk\универ\прак\razb7.k',
+            r'C:\Users\dashk\универ\прак\razb8.k',
+            r'C:\Users\dashk\универ\прак\razb9.k',
             r'C:\Users\dashk\универ\прак\razb10.k',
             r'C:\Users\dashk\универ\прак\razb11.k',
             r'C:\Users\dashk\универ\прак\razb12.k',
